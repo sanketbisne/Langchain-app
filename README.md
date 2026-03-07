@@ -172,7 +172,7 @@ The application will prompt you to enter a topic. To exit, type `q` and press En
 
 Congratulations on getting the application running! From here, you could:
 
-*   **Try a different model:** Swap out `gemini-1.5-flash` for another model and see how the responses change.
+*   **Try a different model:** Swap out `gemini-2.5-flash` for another model and see how the responses change.
 *   **Build a web interface:** Use a framework like Flask or FastAPI to create a web-based UI for your fact generator.
 *   **Explore more complex chains:** LangChain offers many ways to build more sophisticated applications with memory, data sources, and agent-like behaviors.
 
